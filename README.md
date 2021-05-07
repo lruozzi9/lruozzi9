@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Lorenzo 👋
+
+- 🔭 I’m currently working on Sylius e-commerce at Webgriffe
+- 🌱 I’m currently learning Symfony
 
 <!--
 **lruozzi9/lruozzi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
