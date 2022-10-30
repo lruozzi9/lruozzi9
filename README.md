@@ -1,5 +1,6 @@
-<h1 align="center">![kirby image](https://user-images.githubusercontent.com/26346480/198892167-66c03046-498f-4638-919e-1a4e189ca711.png)
-Hello there 👋, I'm Lorenzo</h1>
+<h1 align="center">
+  <img src="https://thumbs.gfycat.com/ImpracticalWelcomeAndalusianhorse-size_restricted.gif" alt="Kirby image" width="40" height="40"/>
+  Hello there 👋, I'm Lorenzo</h1>
 <h3 align="center">A passionate web developer from Italy</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lruozzi9" alt="lruozzi9" /></a> </p>
